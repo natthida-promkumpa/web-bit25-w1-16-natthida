@@ -11,7 +11,7 @@
             <h1>งานที่ 1 ณัฐิดา พรมคำปา BIT.2/5 เลขที่ 16</h1>
 
          <div style="
-        background-color: #baf6f0;
+        background-color: #c1ccf5;
         border: 2px 
         solid black; 
         padding: 15px;
@@ -25,7 +25,7 @@
             <input type="number" name="num" id="">
 
             <input type="submit" value="คำนวณ"
-                    style="background-color: green; color: white;">
+                    style="background-color: #738ffe; color: white;">
         </form>
 
         <?php 

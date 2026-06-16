@@ -26,7 +26,7 @@
             <input type="number" name="num" id="">
 
             <input type="submit" value="คำนวณ"
-                    style="background-color: blue; color: white;">
+                    style="background-color: #4db6ac; color: white;">
         </form>
 
             <?php
@@ -36,7 +36,7 @@
                     echo "สูตรคูณแม่" . $num . "<br>";
 
                     //. เริ่ม       จบ.     เพิ่มทีละ1
-                    for($i = 1; $i <= 12; $i++){
+                    While ($i = 1; $i <= 12; $i++){
                         echo $num . " x " . $i . " = " . $num * $i ."<br>";
                     }
                 }
